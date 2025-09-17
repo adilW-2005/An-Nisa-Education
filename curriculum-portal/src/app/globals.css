@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8fafc; /* slate-50 */
+  --foreground: #0f172a; /* slate-900 */
+}
+
+@theme {
+  --color-annisa-blue: #169fcb;
+  --color-annisa-blue-50: #f0f9ff;
+  --color-annisa-blue-100: #e0f2fe;
+  --color-annisa-blue-600: #0284c7;
+  --color-annisa-blue-700: #0369a1;
+  --radius-2xl: 1rem;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+.focus-ring {
+  @apply focus:outline-none focus:ring-2 focus:ring-annisa-blue;
+}

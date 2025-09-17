@@ -1,0 +1,166 @@
+{
+  "curricula": [
+    {
+      "id": "k-2",
+      "title": "K–2 Curriculum",
+      "masterPlan": "https://docs.google.com/document/d/1KD2OXXVO_xo9i4M3vdj8GNewLgYLmJdz2PVRS5JhnzQ/edit?usp=drive_link",
+      "scenarioCards": "https://drive.google.com/file/d/1Wao5cbCXJr5f3vcRN0D_2STfRrj-ujXL/view?usp=drive_link",
+      "competencies": [
+        {
+          "id": "competency-1",
+          "title": "Competency 1",
+          "summary": "Recognize and name feelings; build emotional vocabulary.",
+          "parentLetter": "https://docs.google.com/document/d/1g77ndfSi8HiTczfr2t15PSj5vdF3YQVM55HtUMPogm0/edit?usp=drive_link",
+          "materialsList": "https://docs.google.com/document/d/1bc1EOL2WTPxtgXQY9QywKfEfvbpOf6MWhseaXVjZiqY/edit?usp=drive_link",
+          "lessons": [
+            {
+              "number": 1,
+              "title": "Identifying Feelings",
+              "docUrl": "https://docs.google.com/document/d/1cbuzz1QlNayV3ILEoGNKQvBhoJoweAp5e1ZlBApH-WE/edit?usp=sharing",
+              "slidesUrl": "https://docs.google.com/presentation/d/1C0Dmf12LTyPj-teqfE5V62hoTET7zb06MwX4a5wFSGo/edit?usp=sharing",
+              "extras": []
+            },
+            { "number": 2, "title": "My Strenghts", "docUrl": "https://docs.google.com/document/d/1Y4rYLA9DWU9-iFL1iI11Cn1yxS0aqT5nK_Pa-FxLsVE/edit?usp=sharing", "slidesUrl": "https://docs.google.com/presentation/d/19Z9mS5Sm8K1YiIZqumQxT1weHCbcxe_8kWqxNB8u0Og/edit?usp=sharing", "extras": [] },
+            { "number": 3, "title": "Knowing Yourself", "docUrl": "https://docs.google.com/document/d/1cLl2AYhotLMM2Oo1aeMQn61dzBFtoboqbvdlegJTIlI/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/17dq_1StbFq7q-jv2qi-79f-40yUVN1pJ/edit?usp=sharing&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 4, "title": "Positive Self Talk", "docUrl": "https://docs.google.com/document/d/1cTGJ256ORHfRBbytdskd83kwpXmHDD-5pAvlU7ueLHc/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1O96KYZBENW6XGtYLcBh_oIPE8e0Z0T8U_tqIf0HnSNg/edit?usp=drive_link", "extras": [] },
+            { "number": 5, "title": "Gratitude and Reflection", "docUrl": "https://docs.google.com/document/d/1SyFxsbCeEfGsGvU5X1cWYEqpi7ljDD5hqBtBoShcrtU/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1JOHWOqempnX6DBC879dc4yzMDU9v13XK/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] }
+          ]
+        },
+        {
+          "id": "competency-2",
+          "title": "Competeny 2",
+          "summary": "Practice calming, routines, and goal setting.",
+          "parentLetter": "https://docs.google.com/document/d/1gr5uCSET5o8jYnQLeXQhOYnxjFpeNpCukpwFO-oC9Qw/edit?usp=drive_link",
+          "materialsList": "https://docs.google.com/document/d/1eRM_50FxzjSjpS8sK266vAMRZ6YSrFqjhoh1nIS45lg/edit?usp=drive_link",
+          "lessons": [
+            { "number": 1, "title": "Self Management", "docUrl": "https://docs.google.com/document/d/1b4sNplmz1GLiaZegxsQB4rIo6FTOmEQi5Dox2pyU7j0/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1ZAjxt6vvNZ3ME1zIxcMVhrRHisEdEnJy/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 2, "title": "I Notice I feel I can", "docUrl": "https://docs.google.com/document/d/1D1uJoqxAgM8W86dn13h-QpYpKlBt7_-EcRBCFsR9mgg/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1mI0AbYhftw-NjdwEKwO8VRMK_0DZ90dJ/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 3, "title": "Managing Stress", "docUrl": "https://docs.google.com/document/d/10mR-y4IKafIVuQC7Vtf1EvK961tM8lAlCDss8ZT5PMQ/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1IeWo3mSEzUaciq3BYfGPnzutogH8WmsSFSv0Yjm1R7I/edit?usp=drive_link", "extras": [] },
+            { "number": 4, "title": "Perserverance", "docUrl": "https://docs.google.com/document/d/1bVg5aolMo7_-DVWgGlki2XBsK2Cozqmx/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/1HLgcfMB4VF1AcVf-M5Bxe0w0D_ORjCm5/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 5, "title": "Creating a Personal Coping Plan", "docUrl": "https://docs.google.com/document/d/1u1E66AceU28XjdwePu7lOiZ-ApPJXPmA/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/16rXr9QIAzbpYfWIsHNsr4FCz2JgjhqemsI2Vqw5jWH0/edit?usp=drive_link", "extras": [] }
+          ]
+        },
+        {
+          "id": "competency-3",
+          "title": "Competency 3",
+          "summary": "Build empathy and perspective-taking.",
+          "parentLetter": "https://docs.google.com/document/d/1vhBUKeIeaH14JzuqYXQ6cKfyX1TUyQgB-GYIvzsKmRc/edit?usp=drive_link",
+          "materialsList": "https://docs.google.com/document/d/1oT9fQPdJfTbyGBqDuaJfMUw2xOodlfFp/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true",
+          "lessons": [
+            { "number": 1, "title": "Perspective and Empathy", "docUrl": "https://docs.google.com/document/d/11ot9YDthM2uIob3VNCzka3ATq55Y2EfJ/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/13Cxs0YaEx3IZU32jxGqxUhgzMZpV4kNdz6zT_mEtuUc/edit?usp=drive_link", "extras": [] },
+            { "number": 2, "title": "Fairness and Judgement", "docUrl": "https://docs.google.com/document/d/1rR569Qdm7NsndU4xc--R3ofrOCC9PEer/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/1OOuQbdPkOwUCzGtyjSt82CTfQ9ROyaya-3I9SM8ZkuY/edit?usp=drive_link", "extras": [] },
+            { "number": 3, "title": "Social Awareness", "docUrl": "https://docs.google.com/document/d/1w6EglggEvg3VYHpv238_SiwJqrX4CsurcjTWX9uoM3c/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/15ku3T5YIX-lvusiRyeDUbn23xa_gR6JwxgecoZztdGQ/edit?usp=drive_link", "extras": [] },
+            { "number": 4, "title": "Appreciating Diversity", "docUrl": "https://docs.google.com/document/d/1Y1NS74ObXtifCc5owLmpWy83aliuEVc9/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/138sx4zo7fS9uXHgN4ChvOgUSkTBD8PGTQ7wOr26rvXU/edit?usp=drive_link", "extras": [] },
+            { "number": 5, "title": "Service and Giving Back", "docUrl": "https://docs.google.com/document/d/1oT9fQPdJfTbyGBqDuaJfMUw2xOodlfFp/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/1XBYJDiMdsQ7NlhwNzs90VeKPnQXCNjVt/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] }
+          ]
+        },
+        {
+          "id": "competency-4",
+          "title": "Competency 4",
+          "summary": "Practice listening, sharing, and teamwork.",
+          "parentLetter": "https://docs.google.com/document/d/107ppEWbtXpJe6be0XEWNagXjMPV_9hfFp-Db2XLcxtI/edit?usp=drive_link",
+          "materialsList": "",
+          "lessons": [
+            { "number": 1, "title": "Listening with our Eyes, Ears, Heart", "docUrl": "https://docs.google.com/document/d/1g0mcBwWN4f-VC_uPebI-zEOyyPtOk-m-/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/1I2z5ki-1BNuE1MGfYfyoVTbgBeE3c2Hu__uyYxxm6eQ/edit?usp=drive_link", "extras": [] },
+            { "number": 2, "title": "Sharing and Turn-Taking", "docUrl": "https://docs.google.com/document/d/1M97TgZlzJg5507QLJTZrPQVk7QugLek6/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/15URt2so290j_2iH9sZG34PyHq_fkkZ8-FQSOsPGTEoE/edit?usp=drive_link", "extras": [] },
+            { "number": 3, "title": "Problem Solving Together", "docUrl": "https://docs.google.com/document/d/10HNamE0zdflkQDErRl9QpaXsNGgSPeWwKbThemWe9kuJm38Aebgv8NM/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/1VcSG2_Sl0AzfMtYbiArWidf4LCo2GJhV/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 4, "title": "Building Friendships", "docUrl": "https://docs.google.com/document/d/1htoAIVROYMczvCCRbz6tIoQfImTNT_UI/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/17D5Vf7uJRMdQFsH3_QNLIloaWhmNsJry/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 5, "title": "Repair and Connect", "docUrl": "https://docs.google.com/document/d/1h6DUHCNd6zOYrPe7KvvFh5tf8jusXiro/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/1PMGSk1rJd24eUa47hoL31_NVtbGyIGaqKYSUqDNABHc/edit?usp=drive_link", "extras": [] }
+          ]
+        },
+        {
+          "id": "competency-5",
+          "title": "Competency 5",
+          "summary": "Make safe, kind, and fair choices.",
+          "parentLetter": "https://docs.google.com/document/d/1OocdqreP3lwN7u3obuSKGLSNS4gQBijuNpyuXIGgHt0/edit?usp=drive_link",
+          "materialsList": "https://docs.google.com/document/d/13FJ-jgW-irslS0xlZqHOH0PB35ywjPQYfPNMrtsfw30/edit?usp=drive_link",
+          "lessons": [
+            { "number": 1, "title": "Stop, Think, Choose", "docUrl": "https://docs.google.com/document/d/17yd5xY9FO4Y4eASG4h7rlITOwCeTepJ7/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/1TfaZ_oSiaPPBIXnCMFvtcE_A6-DK3Xb0hkfW86rz3Xs/edit?usp=drive_link", "extras": [] },
+            { "number": 2, "title": "Safe vs Unsafe Choices", "docUrl": "https://docs.google.com/document/d/1kqOWUXMZhX4JmcXI_D9w3kkoLxWOjcr1/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/1dYfsGfrcPX6qu5aTD-H83mo75tVC8HaVExNmJpngQtQ/edit?usp=drive_link", "extras": [] },
+            { "number": 3, "title": "Choices Have Consequences", "docUrl": "https://docs.google.com/document/d/1n9643z8Jw2iF8kZK2gasOLixZe1XkLLU/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/13YEdlRR4X2IwW2HU9sbMM552XWtMEUX6x5eC6s8H0H4/edit?usp=drive_link", "extras": [] },
+            { "number": 4, "title": "Our Choices Affect Hearts", "docUrl": "https://docs.google.com/document/d/13rkHdMqL4ZCqoqdFMwVEmTXDKksspHKw/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/1hPZjGUbMYNPwIyhQZNZXs_lY3SS5rtrs/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 5, "title": "My Choices, My Power", "docUrl": "https://docs.google.com/document/d/1jJ6v9TkZvCz6Ltsd3-yutY_6Ltu4xwEe/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/14ZI9vhzRash6LORGz-Yyq7QQRJozvT-lvA4ElOH2cWI/edit?usp=drive_link", "extras": [] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-5",
+      "title": "3–5 Curriculum",
+      "masterPlan": "https://docs.google.com/document/d/1cfXJDG-k2gPOiHYOnSLHu08CaBLvLSTSI6OrdIoPZEw/edit?usp=drive_link",
+      "scenarioCards": "https://docs.google.com/document/d/1SmSsTJALX-z5vK9TLVHiGffWyqO0samY_PgsO6keL9g/edit?usp=drive_link",
+      "competencies": [
+        {
+          "id": "competency-1",
+          "title": "Competency 1",
+          "summary": "Identify strengths, values, and emotions.",
+          "parentLetter": "",
+          "materialsList": "",
+          "lessons": [
+            { "number": 1, "title": "Identifying Feelings", "docUrl": "https://docs.google.com/document/d/1xz3GR6Hkn0xqGAeKygwK6yRWbkYQLwEc/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/18QngEgDPE7ybQvHEyQvNyGwTclnAchIsokJR69D5ItY/edit?usp=drive_link", "extras": [] },
+            { "number": 2, "title": "My Strenghts - Discovering What Makes me Unique", "docUrl": "https://docs.google.com/document/d/1BjQOAP_Y5-HIxbPOu6IzozkdFWGH5bCJ3lVxWvoCCzo/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1Hmsy6s2410Jo_UyEO2wFicVm7WUKX4cLrXOfiTJ0-P8/edit?usp=drive_link", "extras": [] },
+            { "number": 3, "title": "knowing Myself - Values and Strengths", "docUrl": "https://docs.google.com/document/d/1YdSq8R_JkEx6eZke6prsBQcoaYnDXI_OVjBqplSb7UE/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/18vSbWUwAo_p0VmtY44YfzXGAtuHsdKnY/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 4, "title": "Positive Self Talk", "docUrl": "https://docs.google.com/document/d/1CuBRIau3eHOCaYHumLYJs0NTZ9KxbzwL/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "https://docs.google.com/presentation/d/1VIjbnwCYiEROkCPSgq283LII7D59Kc2i/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 5, "title": "Gratitude and Reflection", "docUrl": "https://docs.google.com/document/d/1w5iZJw-eQpv-xpxGQyyC4zaAOtqYOR8g/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "slidesUrl": "", "extras": [] }
+          ]
+        },
+        {
+          "id": "competency-2",
+          "title": "Competeny 2",
+          "summary": "Practice calming, routines, and goal setting.",
+          "parentLetter": "",
+          "materialsList": "",
+          "lessons": [
+            { "number": 1, "title": "Managing Big Feelings", "docUrl": "https://docs.google.com/document/d/1LGUfeohC955Q_YQ7JBfptrsirpB0bhVqTt-Y_8xegGI/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1w8mv2_AflPVZIeL7r0_I0KrQb8iO1f98GnYXkiJQfIU/edit?usp=drive_link", "extras": [] },
+            { "number": 2, "title": "Notice, I Feel, I can", "docUrl": "https://docs.google.com/document/d/1btZN8ryzMmsL0jvgtMgEBH3y8Hl-oreO5Ge4BG6SLl0/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1mq5ELVXcR0qy9WgFLViyIUQXIzufhzM7/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 3, "title": "Managing Stress", "docUrl": "https://docs.google.com/document/d/1bgdbusflv49G_cXDC9O-_9OqvYMaw41enbNtZmLMy04/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1FP_FPMM0NtWVzKr7L6TeirMwoSPjkHiM8dzv_9aRDhE/edit?usp=drive_link", "extras": [] },
+            { "number": 4, "title": "Perserverance and Trying Again", "docUrl": "https://docs.google.com/document/d/1E7EeCybVnrFNNMm-WjRRi_umQlFQwwfh_J62XeWGWEk/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1_7B9X8VoSjC7GUYj-Txmwo3Q721NgXZtBYs1wiwZ5Gw/edit?usp=drive_link", "extras": [] },
+            { "number": 5, "title": "Creating a Personal Coping Plan", "docUrl": "https://docs.google.com/document/d/1dMZaxj78Gazcpe-aHmO1hWgDQyoaVnZfQNueDhewwtQ/edit?usp=drive_link", "slidesUrl": "", "extras": [] }
+          ]
+        },
+        {
+          "id": "competency-3",
+          "title": "Competency 3",
+          "summary": "Respect differences and practice empathy.",
+          "parentLetter": "",
+          "materialsList": "",
+          "lessons": [
+            { "number": 1, "title": "Walking in Someone Else's Shoes - Understanding other's Feelings", "docUrl": "https://docs.google.com/document/d/1o0hpTlb_QaZ9roK3YscHtIj8BoiHI-39DYbn5fICeys/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1sFbVk01hINnOPMK0qswn1N3e9s3nbRB7/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 2, "title": "Fairness and Justice", "docUrl": "https://docs.google.com/document/d/1riqF2gLcDJZAaBPtf2kW9JdpYZN-TL6OmkpPhF2wBh4/edit?usp=drive_link", "slidesUrl": "", "extras": [] },
+            { "number": 3, "title": "Compassion in Action", "docUrl": "https://docs.google.com/document/d/18Feac8hjqAEqTjCdpu_zz2k96qXrGYcx-PfiV_B95Po/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1Ib2Ay-OzfQR13QqQWkpY4Cuep8UU2dn9VxiM7CVQH2E/edit?usp=drive_link", "extras": [] },
+            { "number": 4, "title": "Respecting Differences", "docUrl": "https://docs.google.com/document/d/1N9sb4RgL91OYL1LHCiNYdby64y5puyGz8d1nhPiqJgs/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1peRs5nLfFMW8hd5dZQvEv5iNtaHIYIDW/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 5, "title": "Service and Giving Back", "docUrl": "https://docs.google.com/document/d/1-28QS1duOAr3srbec-gai5QN9IGkl7s8a_VHUL1x7ag/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1RqTBMmFPgFqVKCFCC3eV6hPi2eAIHogj5ktTmre6S20/edit?usp=drive_link", "extras": [] }
+          ]
+        },
+        {
+          "id": "competency-4",
+          "title": "Competency 4",
+          "summary": "Communicate, collaborate, and resolve conflicts.",
+          "parentLetter": "",
+          "materialsList": "",
+          "lessons": [
+            { "number": 1, "title": "Active Listening", "docUrl": "https://docs.google.com/document/d/1pTLsImyQ1GXhnedtZ_Bjwh5re-paCiLcaRU9wTkkkUo/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1k6E5_Aas1AN0jNqt8tOf5uMDyAgkHi3d/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 2, "title": "Cooperation and Turn Taking", "docUrl": "https://docs.google.com/document/d/1AWw_O1dRLYeXtL_HQVxajl0wyWAScxuzu3JfkQlnUgo/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1y4xq-ltVHqlTQ4ASYU8quKChGxwULlxjJxfh41P1-bg/edit?usp=drive_link", "extras": [] },
+            { "number": 3, "title": "Problem Solving Together", "docUrl": "https://docs.google.com/document/d/1xNQbq9Kjy_i7JssmuyIJd1mnDV4m6B4OoKtQlQ5I7uU/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1lxi_pNAAkv7GM0HkWs3HtwxoZAVTvB2c/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 4, "title": "Building Friendships", "docUrl": "https://docs.google.com/document/d/1krhdTMCvbBrhqNkIyeWwKbThemWe9kuJm38Aebgv8NM/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/12WH4MuZU4Oxqb_LQOnHxpM1teapttg4D/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 5, "title": "Repair and Reconnect", "docUrl": "https://docs.google.com/document/d/1i5KQivb3fV1hqK2X-g7rPgjKxJSFHpwoeObm1D3-BZw/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1jJtOoQBi4b4GOmWq_7mllih69WkHGGrcVRabnj5WB1A/edit?usp=drive_link", "extras": [] }
+          ]
+        },
+        {
+          "id": "competency-5",
+          "title": "Competency 5",
+          "summary": "Solve problems and make ethical choices.",
+          "parentLetter": "",
+          "materialsList": "",
+          "lessons": [
+            { "number": 1, "title": "Stop, Think, Choose", "docUrl": "https://docs.google.com/document/d/1XM-uagjj1O0qlK6sEKXHqxyKxd_bvv0IEaDKbI6xldk/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/15YSRyZTkKXY3d7j2tCnKmWriGNXmQvaugQCPy19OyxU/edit?usp=drive_link", "extras": [] },
+            { "number": 2, "title": "Safe vs Unsafe Choices", "docUrl": "https://docs.google.com/document/d/1irdy2YUACSDh7kxod0oBROw3I3r8WIyIYTx_XcMgGHY/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1jQIJQGVfzj0TQbWKWvwuOnlFprdRG4rJ/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 3, "title": "Choices Have Consequences", "docUrl": "https://docs.google.com/document/d/16yfMTigThhGKOqjSMKPi1nJSImZsvhiHNNYYRfuI4Oc/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1uRsf4BdPcTwtbvuFFyekrXxPuT9Hf4HqCTdAufXoFZc/edit?usp=drive_link", "extras": [] },
+            { "number": 4, "title": "Thinking of Others", "docUrl": "https://docs.google.com/document/d/1SxDWQdURJoByc3U8gGq4LJq73ALjvoXdU1u-m8gciuw/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1OoyJNVsaZUFUKll_JCa9kYQw5ptrfkNJ/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true", "extras": [] },
+            { "number": 5, "title": "My Choices, My Power", "docUrl": "https://docs.google.com/document/d/1EF73skpxhU_IqLsquymfzjnrOIs-STsvt9JwPWINZZI/edit?usp=drive_link", "slidesUrl": "https://docs.google.com/presentation/d/1QWjVClAl9xLHNgwH-pQwR3W4w6EDowen7MS069ECj5A/edit?usp=drive_link", "extras": [] }
+          ]
+        }
+      ]
+    }
+  ]
+} 
