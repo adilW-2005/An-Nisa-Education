@@ -3,8 +3,8 @@ import CardGrid from "../../components/CardGrid";
 import { getCurricula } from "../../lib/data";
 
 export const metadata = {
-  title: "Curriculum Portal",
-  description: "Choose a curriculum to explore competencies and lessons.",
+  title: "Cultivating Character - A K–5 SEL Curriculum",
+  description: "Calm minds, kind hearts, wise choices. Choose a curriculum to explore competencies and lessons.",
 };
 
 export default function Home() {
@@ -14,9 +14,12 @@ export default function Home() {
     <div className="space-y-12">
       <section className="bg-gradient-to-br from-annisa-blue to-annisa-blue-600 text-white rounded-2xl p-6 md:p-8">
         <div className="max-w-2xl">
-          <h1 className="text-2xl md:text-3xl font-bold mb-3">Curriculum Portal</h1>
+          <h1 className="text-2xl md:text-3xl font-bold mb-3">Cultivating Character</h1>
+          <p className="text-lg text-annisa-blue-100 mb-2">
+            Calm minds, kind hearts, wise choices
+          </p>
           <p className="text-annisa-blue-100 mb-4">
-            Explore competencies and lessons from AnNisa Education curricula.
+            A K–5 Social-Emotional Learning Curriculum
           </p>
           <form action="/search" method="GET" aria-label="Search lessons">
             <div className="flex items-center gap-2 max-w-md">

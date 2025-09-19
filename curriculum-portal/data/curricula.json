@@ -8,7 +8,7 @@
       "competencies": [
         {
           "id": "competency-1",
-          "title": "Competency 1",
+          "title": "Self Awareness",
           "summary": "Recognize and name feelings; build emotional vocabulary.",
           "parentLetter": "https://docs.google.com/document/d/1g77ndfSi8HiTczfr2t15PSj5vdF3YQVM55HtUMPogm0/edit?usp=drive_link",
           "materialsList": "https://docs.google.com/document/d/1bc1EOL2WTPxtgXQY9QywKfEfvbpOf6MWhseaXVjZiqY/edit?usp=drive_link",
@@ -28,7 +28,7 @@
         },
         {
           "id": "competency-2",
-          "title": "Competeny 2",
+          "title": "Self Management",
           "summary": "Practice calming, routines, and goal setting.",
           "parentLetter": "https://docs.google.com/document/d/1gr5uCSET5o8jYnQLeXQhOYnxjFpeNpCukpwFO-oC9Qw/edit?usp=drive_link",
           "materialsList": "https://docs.google.com/document/d/1eRM_50FxzjSjpS8sK266vAMRZ6YSrFqjhoh1nIS45lg/edit?usp=drive_link",
@@ -42,7 +42,7 @@
         },
         {
           "id": "competency-3",
-          "title": "Competency 3",
+          "title": "Social Awareness",
           "summary": "Build empathy and perspective-taking.",
           "parentLetter": "https://docs.google.com/document/d/1vhBUKeIeaH14JzuqYXQ6cKfyX1TUyQgB-GYIvzsKmRc/edit?usp=drive_link",
           "materialsList": "https://docs.google.com/document/d/1oT9fQPdJfTbyGBqDuaJfMUw2xOodlfFp/edit?usp=drive_link&ouid=111888765746148764546&rtpof=true&sd=true",
@@ -56,7 +56,7 @@
         },
         {
           "id": "competency-4",
-          "title": "Competency 4",
+          "title": "Relationship Skills",
           "summary": "Practice listening, sharing, and teamwork.",
           "parentLetter": "https://docs.google.com/document/d/107ppEWbtXpJe6be0XEWNagXjMPV_9hfFp-Db2XLcxtI/edit?usp=drive_link",
           "materialsList": "",
@@ -70,7 +70,7 @@
         },
         {
           "id": "competency-5",
-          "title": "Competency 5",
+          "title": "Responsible Decision Making",
           "summary": "Make safe, kind, and fair choices.",
           "parentLetter": "https://docs.google.com/document/d/1OocdqreP3lwN7u3obuSKGLSNS4gQBijuNpyuXIGgHt0/edit?usp=drive_link",
           "materialsList": "https://docs.google.com/document/d/13FJ-jgW-irslS0xlZqHOH0PB35ywjPQYfPNMrtsfw30/edit?usp=drive_link",
@@ -92,7 +92,7 @@
       "competencies": [
         {
           "id": "competency-1",
-          "title": "Competency 1",
+          "title": "Self Awareness",
           "summary": "Identify strengths, values, and emotions.",
           "parentLetter": "",
           "materialsList": "",
@@ -106,7 +106,7 @@
         },
         {
           "id": "competency-2",
-          "title": "Competeny 2",
+          "title": "Self Management",
           "summary": "Practice calming, routines, and goal setting.",
           "parentLetter": "",
           "materialsList": "",
@@ -120,7 +120,7 @@
         },
         {
           "id": "competency-3",
-          "title": "Competency 3",
+          "title": "Social Awareness",
           "summary": "Respect differences and practice empathy.",
           "parentLetter": "",
           "materialsList": "",
@@ -134,7 +134,7 @@
         },
         {
           "id": "competency-4",
-          "title": "Competency 4",
+          "title": "Relationship Skills",
           "summary": "Communicate, collaborate, and resolve conflicts.",
           "parentLetter": "",
           "materialsList": "",
@@ -148,7 +148,7 @@
         },
         {
           "id": "competency-5",
-          "title": "Competency 5",
+          "title": "Responsible Decision Making",
           "summary": "Solve problems and make ethical choices.",
           "parentLetter": "",
           "materialsList": "",

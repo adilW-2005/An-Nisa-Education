@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Curriculum Portal",
-  description: "Explore competencies and lessons across AnNisa Education curricula.",
+  title: "Cultivating Character - A K–5 SEL Curriculum",
+  description: "Calm minds, kind hearts, wise choices. Explore competencies and lessons across our K-5 Social-Emotional Learning curriculum.",
 };
 
 export default function RootLayout({ children }) {
