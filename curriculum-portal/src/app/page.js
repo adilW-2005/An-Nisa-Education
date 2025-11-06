@@ -1,6 +1,7 @@
 import Card from "../../components/Card";
 import CardGrid from "../../components/CardGrid";
 import { getCurricula } from "../../lib/data";
+import LinkButton from "../../components/LinkButton";
 
 export const metadata = {
   title: "Cultivating Character - A K–5 SEL Curriculum",
@@ -34,6 +35,18 @@ export default function Home() {
               </button>
             </div>
           </form>
+        </div>
+      </section>
+
+      <section>
+        <h2 className="text-2xl font-bold text-slate-900 mb-4 text-center">Printable Resources</h2>
+        <div className="flex items-center justify-center gap-3">
+          <LinkButton href="/docs/Skills.pdf" ariaLabel="Open Skills PDF for printing">
+            Print Skills (PDF)
+          </LinkButton>
+          <LinkButton href="/docs/Values.pdf" ariaLabel="Open Values PDF for printing" variant="secondary">
+            Print Values (PDF)
+          </LinkButton>
         </div>
       </section>
 
