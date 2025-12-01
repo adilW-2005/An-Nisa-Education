@@ -51,6 +51,18 @@ export default function Home() {
       </section>
 
       <section>
+        <h2 className="text-2xl font-bold text-slate-900 mb-4 text-center">Teacher Training</h2>
+        <div className="flex items-center justify-center gap-3">
+          <LinkButton 
+            href="https://docs.google.com/presentation/d/1t9uJo8m4l1PG06DxPCyx0SrgBK8cjZI-eZX-Ys1gMRQ/edit?usp=sharing" 
+            ariaLabel="Open Teacher Training presentation"
+          >
+            Teacher Training Slides
+          </LinkButton>
+        </div>
+      </section>
+
+      <section>
         <h2 className="text-2xl font-bold text-slate-900 mb-8 text-center">Choose Your Curriculum</h2>
         <CardGrid>
           {curricula.map((c) => (
