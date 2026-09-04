@@ -1,10 +1,11 @@
-import { Geist, Geist_Mono } from "next/font/google";
+import { Atkinson_Hyperlegible, Geist_Mono } from "next/font/google";
 import Image from "next/image";
 import Link from "next/link";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const atkinson = Atkinson_Hyperlegible({
+  variable: "--font-atkinson",
+  weight: ["400", "700"],
   subsets: ["latin"],
 });
 
@@ -21,30 +22,37 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable} antialiased bg-annisa-blue-50 text-slate-900`}>
-        <div className="h-2 w-full bg-annisa-blue" aria-hidden></div>
-        <header className="border-b bg-gradient-to-r from-annisa-blue-100 to-white shadow-sm">
-          <div className="mx-auto max-w-7xl px-4 py-4 flex items-center gap-3">
-            <Link href="/" className="flex items-center gap-3 no-underline text-inherit focus:outline-none focus:ring-2 focus:ring-annisa-blue rounded-full">
+      <body className={`${atkinson.variable} ${geistMono.variable} bg-cream font-[var(--font-atkinson)] antialiased text-ink`}>
+        <header className="sticky top-0 z-20 border-b border-annisa-blue/25 bg-white/95 shadow-sm backdrop-blur">
+          <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-4 py-4 md:px-6">
+            <Link href="/" className="focus-ring flex items-center gap-3 rounded-full no-underline text-inherit">
               <Image src="/brand/logo.svg" alt="AnNisa Education" width={120} height={32} />
             </Link>
-            <form action="/search" method="GET" className="ml-auto hidden md:block" role="search" aria-label="Search lessons">
+            <nav className="ml-auto flex items-center gap-2">
+              <Link href="/" className="btn-secondary hidden px-3 py-2 sm:inline-flex">
+                Curriculum
+              </Link>
+              <Link href="/admin" className="btn-primary px-3 py-2">
+                Admin
+              </Link>
+            </nav>
+            <form action="/search" method="GET" className="order-last w-full md:order-none md:ml-2 md:w-auto" role="search" aria-label="Search lessons">
               <input
                 type="search"
                 name="q"
                 placeholder="Search lessons"
-                className="w-64 rounded-full border bg-white px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-annisa-blue"
+                className="field-input w-full py-2 md:w-64"
               />
             </form>
           </div>
         </header>
-        <main className="mx-auto max-w-7xl px-4 py-10">
+        <main className="page-shell">
           {children}
         </main>
-        <footer className="mt-12 border-t bg-annisa-blue text-white">
-          <div className="mx-auto max-w-7xl px-4 py-8 text-center">
-            <p className="text-annisa-blue-100">© {new Date().getFullYear()} AnNisa Education</p>
-            <p className="text-sm mt-2 text-annisa-blue-100">Empowering communities through education and support.</p>
+        <footer className="mt-8 bg-annisa-blue text-white">
+          <div className="mx-auto flex max-w-7xl flex-col gap-2 px-4 py-8 text-sm text-annisa-blue-50 md:flex-row md:items-center md:justify-between md:px-6">
+            <p>© {new Date().getFullYear()} AnNisa Education</p>
+            <p>Clear SEL resources for classrooms and families.</p>
           </div>
         </footer>
       </body>

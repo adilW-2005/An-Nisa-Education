@@ -161,6 +161,118 @@
           ]
         }
       ]
+    },
+    {
+      "id": "6-8",
+      "title": "6–8 Curriculum",
+      "gradeLabel": "6–8",
+      "tagline": "Building Emotional Strength, Healthy Relationships & Responsible Choices",
+      "masterPlan": "https://docs.google.com/document/d/1cRkWfA31DVrAwuemrqdEmnRBAmCFG1Z66GozD6ClA-w/edit?usp=drive_link",
+      "scenarioCards": "https://drive.google.com/file/d/13OpYgU-LGAKRcveAPC_Z2SLjAedWiA4o/view?usp=drive_link",
+      "extras": [
+        { "label": "Scenario Bank by Lesson & Grade (DOCX)", "url": "https://drive.google.com/file/d/1T1HtTfj0BC4oBMucDDKSKL6VmzIpe6q7/view?usp=drive_link" }
+      ],
+      "lessons": [
+        {
+          "number": 1,
+          "title": "Understanding Feelings & Emotional Regulation",
+          "coreSkill": "I Notice → I Feel → I Can",
+          "duration": "40 minutes",
+          "primaryCompetencies": ["Self-Awareness", "Self-Management"],
+          "secondaryCompetencies": ["Responsible Decision-Making"],
+          "docUrl": "https://drive.google.com/file/d/1mDYOFofM5EN1b9TpkIXmrobGvZYK7jgX/view?usp=drive_link",
+          "extras": [
+            { "label": "Slides (PPTX)", "url": "https://drive.google.com/file/d/1lyETvH9ZfWvojHF8_FmgXpf3Qd_BMZm6/view?usp=drive_link" }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "The Voice Inside Your Head",
+          "coreSkill": "Name It → Check It → Change It",
+          "duration": "40 minutes",
+          "primaryCompetencies": ["Self-Awareness", "Self-Management"],
+          "secondaryCompetencies": ["Responsible Decision-Making"],
+          "docUrl": "https://drive.google.com/file/d/1QJTgqzxg5F8VEIU7iDJf5C1t4R9BJ9rm/view?usp=drive_link",
+          "extras": [
+            { "label": "Slides (PPTX)", "url": "https://drive.google.com/file/d/1D5nD36oFNb1xKBe_iNCb7Kh5IaS4Gx9t/view?usp=drive_link" },
+            { "label": "Role Play Examples (DOCX)", "url": "https://drive.google.com/file/d/1UDwUokVwSwL7wSFDvHZTaLXBE7WF361p/view?usp=drive_link" }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Check the Story",
+          "coreSkill": "What happened? → What story am I telling myself? → What else could be true? → What is a wise next step?",
+          "duration": "40 minutes",
+          "primaryCompetencies": ["Social Awareness", "Relationship Skills"],
+          "secondaryCompetencies": ["Responsible Decision-Making", "Self-Awareness", "Self-Management"],
+          "docUrl": "https://drive.google.com/file/d/1wRnl1qr_BiTi39o8zjPybvHDnxTw5YHj/view?usp=drive_link",
+          "extras": [
+            { "label": "Slides (PPTX)", "url": "https://drive.google.com/file/d/1XiDHIWOJ_A7fGsS_PZm5XnI8qv0UDvB-/view?usp=drive_link" }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Listen First, Speak Wisely",
+          "coreSkill": "Listen → Validate → Speak (+ I-statements)",
+          "duration": "40 minutes",
+          "primaryCompetencies": ["Relationship Skills", "Social Awareness"],
+          "secondaryCompetencies": ["Self-Awareness", "Self-Management", "Responsible Decision-Making"],
+          "docUrl": "https://drive.google.com/file/d/1ptw3qUmh0NYtCLFhe5knDpWc1NVhuNu1/view?usp=drive_link",
+          "extras": [
+            { "label": "Slides (PPTX)", "url": "https://drive.google.com/file/d/1iddEa2NFZZzTjYRczA2Pd230CyFbe7Ki/view?usp=drive_link" }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Pause, Choose, Lead",
+          "coreSkill": "Pause → Think → Choose",
+          "duration": "40–45 minutes",
+          "primaryCompetencies": ["Responsible Decision-Making"],
+          "secondaryCompetencies": ["Self-Management", "Self-Awareness", "Social Awareness"],
+          "docUrl": "https://drive.google.com/file/d/1Qln-iVP1znRPU9uWfEqxxQ75Mkwv1reH/view?usp=drive_link",
+          "extras": [
+            { "label": "Slides (PPTX)", "url": "https://drive.google.com/file/d/1JRqNMt9IuiqFSZVSNZlOJ98F1wIiV4nF/view?usp=drive_link" },
+            { "label": "Scenario Cards (PDF)", "url": "https://drive.google.com/file/d/17x4p0tL338yiUUbDm-5_8n0RCfQD-sFo/view?usp=drive_link" }
+          ]
+        },
+        {
+          "number": 6,
+          "title": "Win-Win Choices",
+          "coreSkill": "S.O.L.V.E. — Stop, Own, Listen, Voice, Explore",
+          "duration": "40–45 minutes",
+          "primaryCompetencies": ["Relationship Skills"],
+          "secondaryCompetencies": ["Responsible Decision-Making", "Self-Management", "Social Awareness"],
+          "docUrl": "https://drive.google.com/file/d/1LPFAMfZuRNENosREC8KHbk7R7cR2zBTn/view?usp=drive_link",
+          "extras": [
+            { "label": "Slides (PPTX)", "url": "https://drive.google.com/file/d/1YvU9MKCSSWm43m7vF5qnCZH3GIqw-MXp/view?usp=drive_link" }
+          ]
+        },
+        {
+          "number": 7,
+          "title": "Train Your Brain",
+          "coreSkill": "Habit Loop Reset · SMART Goals · Future Self Check",
+          "duration": "40–45 minutes",
+          "primaryCompetencies": ["Responsible Decision-Making"],
+          "secondaryCompetencies": ["Self-Management", "Self-Awareness"],
+          "docUrl": "https://drive.google.com/file/d/1WxKphMyqPg1vtDUN_5XayWK6zqivxSAc/view?usp=drive_link",
+          "extras": [
+            { "label": "Slides (PPTX)", "url": "https://drive.google.com/file/d/1gLtesszLFZvwu5C3CBWme1acunWhc6wA/view?usp=drive_link" },
+            { "label": "Scenario Role Play Packet (DOCX)", "url": "https://drive.google.com/file/d/1ZONwhPvuWhC80qVnPIHAin1rLMstb1SF/view?usp=drive_link" }
+          ]
+        },
+        {
+          "number": 8,
+          "title": "My Choices, My Power",
+          "coreSkill": "Choice Point: Pause → Name → Choose → Own",
+          "duration": "40–45 minutes",
+          "primaryCompetencies": ["Responsible Decision-Making"],
+          "secondaryCompetencies": ["Self-Awareness", "Self-Management", "Relationship Skills", "Social Awareness"],
+          "docUrl": "https://drive.google.com/file/d/1cSbSt5b-df2UlG3vapuk0xqQBBg8zG2N/view?usp=drive_link",
+          "extras": [
+            { "label": "Slides (PPTX)", "url": "https://drive.google.com/file/d/1yj6bdr6s2d8ootWHQUmxF7dgOkOe_SsC/view?usp=drive_link" }
+          ]
+        }
+      ]
     }
   ]
 } 
